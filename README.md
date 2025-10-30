@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,3 +25,4 @@ h2 {
 
 </body>
 </html>
+```
